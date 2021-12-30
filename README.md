@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Nitesh Nagpal  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
 ![Linkedin Follow](https://img.shields.io/badge/LinkedIn-2.5k-blue?style=social&logo=linkedin)
-![Twitter Follow](https://img.shields.io/twitter/follow/_niteshnagpal_?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/_niteshnagpal_?style=social) 
 ![GitHub followers](https://img.shields.io/github/followers/nagpalnitesh?style=social)
 
 <!-- Banner -->
@@ -11,9 +11,16 @@
 I am Nitesh Nagpal, fonder and partner of [pixXmo](https://github.com/linkedin)(a digital marketing company).
 </br>
 ⚡ Fun fact: I love to explore and learn new technologies.
+</br>
 💬 Ask me anything, I will be more than happy to help 🤗
 
 <h3>Summary</h3>
+
+
+[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagpalnitesh&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
