@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-I am Nitesh Nagpal, fonder and partner of [pixXmo](http://pixxmo.com/)(a digital marketing company). I'm a full-stack developer for about 3 years now. I've experience in leading and managing teams and multiple projects. Recently, started working on WEB3 projects.   
+I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/) (a digital marketing company). I'm a full-stack developer for about 3 years now. I've experience in leading and managing teams and multiple projects. Recently, started working on WEB3 projects. In free time, I enjoy nature photography ([__nnphotography__](https://www.instagram.com/__nnphotography__/)).  
 ⚡ Fun fact: I love to explore and learn new technologies.  
 💬 Ask me anything, I will be more than happy to help 🤗
 
