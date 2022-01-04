@@ -19,7 +19,7 @@ I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/) (a d
 [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagpalnitesh&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<h2>🛠Tech Stack</h2>
+<h2>🛠 Tech Stack</h2>
 
 Languages  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -97,7 +97,8 @@ Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-📫Connect with me:  
+<h2>📫 Connect with me:</h2>  
+
 [<img src="https://user-images.githubusercontent.com/22131139/147733108-1611082a-011d-43c2-a2ea-2b67da60bf63.png" height="48" width="48">](https://www.linkedin.com/in/nagpalnitesh/)
 [<img src="https://user-images.githubusercontent.com/22131139/147733102-dbf89043-64d5-4297-9c19-d62e96125194.png" height="48" width="48">](https://twitter.com/_niteshnagpal_)
 [<img src="https://user-images.githubusercontent.com/22131139/147733114-3459ff7d-54dc-403c-84e4-d3a65db319cf.png" height="48" width="48">](mailto:niteshnagpal@outlook.com)
