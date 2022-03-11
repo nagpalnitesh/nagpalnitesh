@@ -5,6 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/nagpalnitesh?style=social)
 
 <!-- Banner -->
+![niteshnagpal-github](https://user-images.githubusercontent.com/22131139/157827440-9256c09c-4675-4f27-b76b-138e08e7f9a3.gif)
 
 <h2>About me</h2>
 
