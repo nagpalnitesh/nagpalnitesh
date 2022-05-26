@@ -9,7 +9,7 @@
 
 <h2>About me</h2>
 
-I am Nitesh Nagpal, full stack developer at [__pixXmo__](http://pixxmo.com/). I'm a full-stack developer for about 3 years now. I've experienced in leading and managing teams and multiple projects. Recently, started working on WEB3 projects. In my free time, I enjoy nature photography ([__nnphotography__](https://www.instagram.com/__nnphotography__/)).  
+I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/). I'm a full-stack developer for about 3 years now. I've experienced in leading and managing teams and multiple projects. Recently, started working on WEB3 projects. In my free time, I enjoy nature photography ([__nnphotography__](https://www.instagram.com/__nnphotography__/)).  
 ⚡ Fun fact: I love to explore and learn new technologies.  
 💬 Ask me anything, I will be more than happy to help 🤗
 
