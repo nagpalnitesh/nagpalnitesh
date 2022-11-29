@@ -13,13 +13,6 @@ I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/). I'm
 ⚡ Fun fact: I love to explore and learn new technologies.  
 💬 Ask me anything, I will be more than happy to help 🤗
 
-<h3>Summary</h3>
-
-[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagpalnitesh&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <h2>🛠 Tech Stack</h2>
 
 #### Languages  
@@ -107,3 +100,10 @@ I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/). I'm
 [<img src="https://user-images.githubusercontent.com/22131139/147733102-dbf89043-64d5-4297-9c19-d62e96125194.png" height="48" width="48">](https://twitter.com/_niteshnagpal_)
 [<img src="https://user-images.githubusercontent.com/22131139/147733114-3459ff7d-54dc-403c-84e4-d3a65db319cf.png" height="48" width="48">](mailto:niteshnagpal@outlook.com)
 [<img src="https://user-images.githubusercontent.com/22131139/147733111-d4810b2f-13d3-4b12-9f34-2be52d751c3a.png" height="48" width="48" style="color:blue">](https://www.instagram.com/_niteshnagpal_/)
+
+<h2>Summary</h2>
+
+[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagpalnitesh&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
