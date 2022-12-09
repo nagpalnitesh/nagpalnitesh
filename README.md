@@ -102,7 +102,7 @@ I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/). I'm
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h2>📫 Connect with me:</h2>  
+<h2>📫 Let's Connect</h2>  
 
 [<img src="https://user-images.githubusercontent.com/22131139/147733108-1611082a-011d-43c2-a2ea-2b67da60bf63.png" height="48" width="48">](https://www.linkedin.com/in/nagpalnitesh/)
 [<img src="https://user-images.githubusercontent.com/22131139/147733102-dbf89043-64d5-4297-9c19-d62e96125194.png" height="48" width="48">](https://twitter.com/_niteshnagpal_)
