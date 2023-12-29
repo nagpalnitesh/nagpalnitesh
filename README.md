@@ -9,7 +9,7 @@
 
 <h2>About me</h2>
 
-I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/). I'm a full-stack developer for about 3 years now. I've experienced in leading and managing teams and multiple projects. Recently, started working on WEB3 projects. In my free time, I enjoy nature photography ([__nnphotography__](https://www.instagram.com/__nnphotography__/)).  
+I am Nitesh Nagpal, founder, and partner of [__pixXmo__](http://pixxmo.com/). I've been a full-stack developer for about 3 years now. I've experience in leading and managing teams and multiple projects. I recently started working on WEB3 projects. In my free time, I enjoy nature photography ([__nnphotography__](https://www.instagram.com/__nnphotography__/)).  
 ⚡ Fun fact: I love to explore and learn new technologies.  
 💬 Ask me anything, I will be more than happy to help 🤗
 
@@ -19,7 +19,7 @@ I am Nitesh Nagpal, founder and partner of [__pixXmo__](http://pixxmo.com/). I'm
 [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nagpalnitesh/nagpalnitesh/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagpalnitesh&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nagpalnitesh&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
 <h2>🛠 Tech Stack</h2>
 
