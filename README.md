@@ -13,7 +13,7 @@ Hey there! I'm Nitesh Nagpal, the mastermind behind [__pixXmo__](http://pixxmo.c
 With over 4 years of rocking the full-stack developer scene, I've led and managed teams through some epic projects. 
 Lately, I've been diving into the world of WEB3, and it's been a thrilling ride. 
 When I'm not coding, you'll find me capturing the beauty of nature through my lens.
-Check out my work at [__nnphotography__](https://www.nnphotography.in) and follow my adventures on Instagram: [@__nnphotography__](https://www.instagram.com/__nnphotography__/)). 
+Check out my work at [__nnphotography.in__](https://www.nnphotography.in) and follow my adventures on Instagram: [@__nnphotography__](https://www.instagram.com/__nnphotography__/)). 
 
 ⚡ Fun fact: I love to explore and learn new technologies.
 
