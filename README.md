@@ -9,9 +9,11 @@
 
 <h2>About me</h2>
 
-I am Nitesh Nagpal, founder, and partner of [__pixXmo__](http://pixxmo.com/). I've been a full-stack developer  for over 2 years now.
-I've experience in leading and managing teams and multiple projects. I recently started working on WEB3 projects. 
-In my free time, I enjoy nature photography (Website: [__nnphotography__](https://www.nnphotography.in), Instagram: [@__nnphotography__](https://www.instagram.com/__nnphotography__/)).  
+Hey there! I'm Nitesh Nagpal, the mastermind behind [__pixXmo__](http://pixxmo.com/). 
+With over 4 years of rocking the full-stack developer scene, I've led and managed teams through some epic projects. 
+Lately, I've been diving into the world of WEB3, and it's been a thrilling ride. 
+When I'm not coding, you'll find me capturing the beauty of nature through my lens. 
+Check out my work at [__nnphotography__](https://www.nnphotography.in) and follow my adventures on Instagram: [@__nnphotography__](https://www.instagram.com/__nnphotography__/)). 
 ⚡ Fun fact: I love to explore and learn new technologies.  
 💬 Ask me anything, I will be more than happy to help 🤗
 
