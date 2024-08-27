@@ -110,6 +110,6 @@ Check out my work at [__nnphotography.in__](https://www.nnphotography.in) and fo
 <h2>📫 Let's Connect</h2>  
 
 [<img src="https://user-images.githubusercontent.com/22131139/147733108-1611082a-011d-43c2-a2ea-2b67da60bf63.png" height="48" width="48">](https://www.linkedin.com/in/nagpalnitesh/)
-[<img src="https://user-images.githubusercontent.com/22131139/147733102-dbf89043-64d5-4297-9c19-d62e96125194.png" height="48" width="48">](https://twitter.com/_niteshnagpal_)
+[<img src="https://user-images.githubusercontent.com/22131139/147733102-dbf89043-64d5-4297-9c19-d62e96125194.png" height="48" width="48">](https://twitter.com/nagpalnitesh)
 [<img src="https://user-images.githubusercontent.com/22131139/147733114-3459ff7d-54dc-403c-84e4-d3a65db319cf.png" height="48" width="48">](mailto:niteshnagpal@outlook.com)
 [<img src="https://user-images.githubusercontent.com/22131139/147733111-d4810b2f-13d3-4b12-9f34-2be52d751c3a.png" height="48" width="48" style="color:blue">](https://www.instagram.com/_niteshnagpal_/)
