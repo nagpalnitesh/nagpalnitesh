@@ -9,7 +9,7 @@
 
 <h2>About me</h2>
 
-Hey there! I'm Nitesh Nagpal, the mastermind behind [__pixXmo__](http://pixxmo.com/). 
+Hey there! I'm [Nitesh Nagpal](https://niteshnagpal.com), the mastermind behind [__pixXmo__](http://pixxmo.com/). 
 With over 4 years of rocking the full-stack developer scene, I've led and managed teams through some epic projects. 
 Lately, I've been diving into the world of WEB3, and it's been a thrilling ride. 
 When I'm not coding, you'll find me capturing the beauty of nature through my lens.
