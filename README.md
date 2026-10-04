@@ -3,7 +3,7 @@
 
 # Nitesh Nagpal
 
-**Senior Software Engineer | Full-Stack · AI · SaaS**
+**Senior Software Engineer | Full-Stack, AI, SaaS**
 
 Senior Software Engineer with 7+ years of experience building, shipping, and maintaining production software.
 
@@ -19,7 +19,7 @@ Currently focused on building **AI-powered products, scalable SaaS, and develope
 
 Open-source animated component library for React Native and Expo.
 
-**Stack:** React Native · Expo · TypeScript · NativeWind
+**Stack:** React Native, Expo, TypeScript, NativeWind
 
 **npm:** [glideui-core](https://www.npmjs.com/package/glideui-core)
 
@@ -27,19 +27,19 @@ Open-source animated component library for React Native and Expo.
 
 LLM-powered content generation and publishing pipeline that turns product updates into batches of on-brand social content.
 
-**Stack:** TypeScript · LLMs · AI Automation
+**Stack:** TypeScript, LLMs, AI Automation
 
 ### GigSafe
 
 Trustless freelance escrow protocol on Solana with milestone-based payments and LLM-assisted dispute resolution.
 
-**Stack:** Rust · Solana · Smart Contracts · LLMs
+**Stack:** Rust, Solana, Smart Contracts, LLMs
 
 ### [NN Photography](https://nnphotography.in)
 
 Wildlife photography portfolio and publishing platform.
 
-**Stack:** React · Cloudinary
+**Stack:** React, Cloudinary
 
 ---
 
@@ -61,33 +61,19 @@ I care about **clarity, reliability, maintainability, and pragmatic engineering 
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:** JavaScript, TypeScript, Python
 
-JavaScript · TypeScript · Python
+**Frontend:** React, Next.js, React Native, Expo, Tailwind CSS
 
-**Frontend**
+**Backend:** Node.js, Express, NestJS, REST APIs, Authentication & Authorization
 
-React · Next.js · React Native · Expo · Tailwind CSS
+**Data:** PostgreSQL, MongoDB, Prisma, Redis, Kafka
 
-**Backend**
+**Cloud & Infrastructure:** AWS, GCP, Docker, Kubernetes, Nginx
 
-Node.js · Express · NestJS · REST APIs · Authentication & Authorization
+**DevOps:** GitHub Actions, Jenkins, CI/CD
 
-**Data**
-
-PostgreSQL · MongoDB · Prisma · Redis · Kafka
-
-**Cloud & Infrastructure**
-
-AWS · GCP · Docker · Kubernetes · Nginx
-
-**DevOps**
-
-GitHub Actions · Jenkins · CI/CD
-
-**AI**
-
-LLM APIs · AI Agents · MCP · AI-powered product development
+**AI:** LLM APIs, AI Agents, MCP, AI-powered product development
 
 ---
 
