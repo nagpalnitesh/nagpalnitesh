@@ -1,120 +1,135 @@
 <!-- Banner -->
 ![niteshnagpal-github](https://user-images.githubusercontent.com/22131139/157827440-9256c09c-4675-4f27-b76b-138e08e7f9a3.gif)
 
-# Nitesh Nagpal  
-**Senior Software Engineer | Full-Stack | Remote-Ready**
+# Nitesh Nagpal
 
-Senior Software Engineer with 5+ years of experience building, shipping, and maintaining production-grade web applications.
+**Senior Software Engineer | Full-Stack · AI · SaaS**
 
-Experienced in remote-first environments with strong ownership across the full software lifecycle — from system design and implementation to deployment and long-term maintenance.
+Senior Software Engineer with 7+ years of experience building, shipping, and maintaining production software.
 
----
+I work across the full engineering lifecycle - from system design and architecture to implementation, deployment, observability, and long-term maintenance.
 
-## Professional Summary
-
-- Senior-level full-stack engineer
-- Strong backend and API design experience
-- Production-focused mindset with real-world scaling considerations
-- Comfortable working across US and EU time zones
-- Async-first, documentation-driven, and self-directed
-
-I prioritize clarity, reliability, and maintainability over hype-driven engineering.
+Currently focused on building **AI-powered products, scalable SaaS, and developer tools**.
 
 ---
 
-## Core Competencies
+## 🚀 Featured Projects
 
-- Full-stack development (frontend + backend)
-- REST API design and system architecture
-- Scalable backend services
-- Database schema design and optimization
-- Performance debugging in production
+### [GlideUI](https://glideui.dev)
+
+Open-source animated component library for React Native and Expo.
+
+**Stack:** React Native · Expo · TypeScript · NativeWind
+
+**npm:** [glideui-core](https://www.npmjs.com/package/glideui-core)
+
+### IndiePilot
+
+LLM-powered content generation and publishing pipeline that turns product updates into batches of on-brand social content.
+
+**Stack:** TypeScript · LLMs · AI Automation
+
+### GigSafe
+
+Trustless freelance escrow protocol on Solana with milestone-based payments and LLM-assisted dispute resolution.
+
+**Stack:** Rust · Solana · Smart Contracts · LLMs
+
+### [NN Photography](https://nnphotography.in)
+
+Wildlife photography portfolio and publishing platform.
+
+**Stack:** React · Cloudinary
+
+---
+
+## 🧑‍💻 What I Do
+
+- Full-stack application development
+- System design and backend architecture
+- REST API design and scalable services
+- Database architecture, optimization, and performance
+- Production debugging and reliability
 - Code reviews and technical ownership
-- Remote collaboration and async communication
+- AI/LLM-powered applications
+- MCP servers and developer tooling
+- CI/CD and cloud deployments
+
+I care about **clarity, reliability, maintainability, and pragmatic engineering decisions** over unnecessary complexity.
 
 ---
 
-## Independent & Open-Source Work (Conflict-Safe)
+## 🛠️ Tech Stack
 
-I maintain a small set of **independent, non-commercial, open-source projects** under **pixXmo**.
+**Languages**
 
-- Learning-driven and experimental
-- No consulting, no client deliverables
-- No proprietary data
-- No overlap with employer IP or responsibilities
+JavaScript · TypeScript · Python
 
-These projects exist to explore ideas, improve engineering depth, and contribute back to the developer community.
+**Frontend**
 
----
+React · Next.js · React Native · Expo · Tailwind CSS
 
-## Tech Stack (Current & Relevant)
+**Backend**
 
-### Languages
-- JavaScript / TypeScript
-- Python
+Node.js · Express · NestJS · REST APIs · Authentication & Authorization
 
-### Frontend
-- React
-- React Native
-- Modern state management
-- Responsive and accessible UI development
+**Data**
 
-### Backend
-- Node.js
-- Django / Flask
-- RESTful API development
-- Authentication & authorization
+PostgreSQL · MongoDB · Prisma · Redis · Kafka
 
-### Databases
-- PostgreSQL
-- MongoDB
+**Cloud & Infrastructure**
 
-### Cloud & DevOps
-- AWS
-- Docker
-- Nginx
-- CI/CD (GitHub Actions, Jenkins)
+AWS · GCP · Docker · Kubernetes · Nginx
+
+**DevOps**
+
+GitHub Actions · Jenkins · CI/CD
+
+**AI**
+
+LLM APIs · AI Agents · MCP · AI-powered product development
 
 ---
 
-## How I Add Value on Remote Teams
+## 🌎 Engineering Approach
 
-- Clear written communication and documentation
-- Independent problem-solving with minimal hand-holding
-- Strong ownership over features and systems
-- Comfortable collaborating asynchronously across time zones
-- Pragmatic decision-making with explicit trade-offs
+- Production-first engineering
+- Strong ownership from architecture to deployment
+- Documentation-driven development
+- Pragmatic system design
+- Performance and reliability matter
+- Comfortable working asynchronously across distributed teams
+- Clear written communication and explicit technical trade-offs
 
 ---
 
-## Open Source Focus
+## 🌱 Open Source
 
-Public repositories typically include:
+I build and share software around:
+
+- AI-powered applications
 - Developer tooling
-- Productivity utilities
-- Automation and workflow experiments
-- AI-assisted and web platform prototypes
+- React / React Native
+- Web platforms
+- SaaS products
 
-Each repository is intentionally scoped and documented to reflect production-quality thinking.
-
----
-
-## Beyond Engineering
-
-I’m also interested in photography and visual storytelling.  
-This background informs my approach to user experience, product polish, and clarity in interface design.
+I care about repositories being **usable, documented, and maintainable**, not just demo projects.
 
 ---
 
-## Contact
+## 📸 Beyond Engineering
 
-- Website: https://niteshnagpal.com  
-- LinkedIn: https://www.linkedin.com/in/nagpalnitesh  
+I'm also a wildlife photographer.
+
+Photography has influenced how I approach software: **observe carefully, remove distractions, and focus on what matters.**
+
+[NN Photography](https://nnphotography.in)
+
+---
+
+## 📫 Connect
+
+- Website: https://niteshnagpal.com
+- LinkedIn: https://www.linkedin.com/in/nagpalnitesh
+- X: https://x.com/nitesh_nagpal
 - Email: niteshnagpal@outlook.com
-<!--
-<h2>📫 Let's Connect</h2>  
-
-[<img src="https://user-images.githubusercontent.com/22131139/147733108-1611082a-011d-43c2-a2ea-2b67da60bf63.png" height="48" width="48">](https://www.linkedin.com/in/nagpalnitesh/)
-[<img src="https://user-images.githubusercontent.com/22131139/147733102-dbf89043-64d5-4297-9c19-d62e96125194.png" height="48" width="48">](https://twitter.com/nagpalnitesh)
-[<img src="https://user-images.githubusercontent.com/22131139/147733114-3459ff7d-54dc-403c-84e4-d3a65db319cf.png" height="48" width="48">](mailto:niteshnagpal@outlook.com)
--->
